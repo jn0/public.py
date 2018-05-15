@@ -1,6 +1,6 @@
 [![](https://img.shields.io/pypi/pyversions/public.svg?maxAge=86400)](https://pypi.org/pypi/public/)
 [![](https://img.shields.io/pypi/v/public.svg?maxAge=86400)](https://pypi.org/pypi/public/)
-[![](https://img.shields.io/badge/libraries.io-public-green.svg)](https://libraries.io/pypi/public)
+[![](https://img.shields.io/badge/libraries.io-public-green.svg?maxAge=86400)](https://libraries.io/pypi/public)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/looking-for-a-job/public.py/badge)](https://www.codefactor.io/repository/github/looking-for-a-job/public.py)
 [![CodeClimate](https://codeclimate.com/github/looking-for-a-job/public.py/badges/gpa.svg)](https://codeclimate.com/github/looking-for-a-job/public.py)
@@ -15,11 +15,13 @@
 [![Travis](https://api.travis-ci.org/looking-for-a-job/public.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/public.py/)
 
 ### Install
+
 ```bash
-[sudo] pip install public
+$ [sudo] pip install public
 ```
 
 ### Usage
+
 ```python
 >>> from public import public
 
@@ -29,6 +31,7 @@
 ```
 
 ### Examples
+
 ```python
 >>> @public
 	def func(): pass
@@ -48,4 +51,5 @@
 ```
 
 ### Sources
+
 +   [`public.public(*objects)`](https://github.com/looking-for-a-job/public.py/blob/master/public/__init__.py)
