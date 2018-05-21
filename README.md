@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/OS-OS%20Independent-blue.svg?maxAge=604800)]()
 [![](https://img.shields.io/pypi/pyversions/public.svg?maxAge=86400)](https://pypi.org/pypi/public/)
 [![](https://img.shields.io/pypi/v/public.svg?maxAge=86400)](https://pypi.org/pypi/public/)
 [![](https://img.shields.io/badge/libraries.io-public-green.svg?maxAge=86400)](https://libraries.io/pypi/public)
